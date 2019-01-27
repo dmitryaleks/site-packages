@@ -1,0 +1,6 @@
+# ignore files breaching the GitHub size limit
+tensorflow/python/_pywrap_tensorflow_internal.so
+_solib_k8/_U@mkl_Ulinux_S_S_Cmkl_Ulibs_Ulinux___Uexternal_Smkl_Ulinux_Slib/libmklml_intel.so
+
+# ignore vim buffers
+*.sw*
